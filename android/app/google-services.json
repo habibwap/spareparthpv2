@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471762822255",
+    "project_id": "sparepart-hp-2a48c",
+    "storage_bucket": "sparepart-hp-2a48c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471762822255:android:11022f70d4f02764f1599a",
+        "android_client_info": {
+          "package_name": "com.sparepart_hp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471762822255-368enbpqh8ki2ubscpvsuar2n97anv9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5T-nX7AlEr1zpCJeX_yYKWIGZcKodhK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471762822255-368enbpqh8ki2ubscpvsuar2n97anv9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

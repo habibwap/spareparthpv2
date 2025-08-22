@@ -1,0 +1,24 @@
+name: sparepart_stock_firebase
+description: A Flutter app to manage phone sparepart stock with Firebase (Google Sign-In + Firestore).
+publish_to: "none"
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.5.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.3
+  google_sign_in: ^6.2.1
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
